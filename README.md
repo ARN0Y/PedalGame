@@ -1,2 +1,2 @@
 # PedalGame
-A Simpel PedalGame
+A Simple PedalGame
